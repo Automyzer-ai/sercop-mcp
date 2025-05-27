@@ -1,6 +1,6 @@
 {
   "name": "sercop-mcp",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Model Context Protocol (MCP) server for proxying the SERCOP Open Data API of Ecuador. Provides MCP tools for public procurement data.",
   "keywords": [
     "mcp",
