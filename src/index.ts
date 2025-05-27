@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 // MCP server for SERCOP Open Data API
 // Author: Andrés Villenas, Automayzer.ai
 //
