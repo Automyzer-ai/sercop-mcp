@@ -15,12 +15,12 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/AutomyzerAI/sercop-mcp.git"
+    "url": "https://github.com/Automyzer-ai/sercop-mcp.git"
   },
   "bugs": {
-    "url": "https://github.com/AutomyzerAI/sercop-mcp/issues"
+    "url": "https://github.com/Automyzer-ai/sercop-mcp/issues"
   },
-  "homepage": "https://github.com/AutomyzerAI/sercop-mcp#readme",
+  "homepage": "https://github.com/Automyzer-ai/sercop-mcp#readme",
   "main": "build/index.js",
   "type": "module",
   "bin": {
