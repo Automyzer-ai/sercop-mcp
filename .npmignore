@@ -1,0 +1,7 @@
+# Exclude scripts and configs not needed in npm package
+src/
+tsconfig.json
+Dockerfile
+start-mcp.ps1
+start-mcp-mac.sh
+*.log
